@@ -1,0 +1,8 @@
+msal
+requests
+termcolor
+sqlite3
+tqdm
+matplotlib
+python-dotenv
+gliner 

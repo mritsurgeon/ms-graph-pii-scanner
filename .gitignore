@@ -1,0 +1,4 @@
+.env
+pii_scan_history.db
+__pycache__/
+*.pyc 
